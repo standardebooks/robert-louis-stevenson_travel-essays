@@ -43,7 +43,42 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<!-- SCANS -->
+		<!-- An Inland Voyage -->
+		<dc:source>https://archive.org/details/inlandvoyage06stev/</dc:source>
+		<!-- Edinburgh -->
+		<dc:source>https://archive.org/details/edinburghpicture00stev_0/</dc:source>
+		<!-- Travels with a Donkey -->
+		<dc:source>https://archive.org/details/worksstevens12stevuoft/</dc:source>
+		<!-- The Silverado Squatters -->
+		<dc:source>https://archive.org/details/silveradosquaste00stev/</dc:source>
+		<!--
+		Across the Plains with Other Memories and Essays:
+		. Across the Plains
+		. The Old Pacific Capital: Monterey
+		. Fontainebleau
+		. The Coast of Fife
+		. The Education of an Engineer
+		-->
+		<dc:source>https://archive.org/details/with00stevacrossplainsrich/</dc:source>
+		<!--
+		Essays of Travel:
+		. The Amateur Emigrant
+		. Cockermouth and Keswick
+		. An Autumn Effect
+		. A Winter’s Walk in Carrick and Galloway
+		. Forest Notes
+		. A Mountain Town in France (first chapter of Travels with a Donkey)
+		. Davos in Winter
+		. Health and Mountains
+		. Alpine Diversions
+		. The Stimulation of the Alps
+		. Roads
+		. On the Enjoyment of Unpleasant Places
+		-->
+		<dc:source>https://archive.org/details/cu31924013553965/</dc:source>
+		<!-- The Old and New Pacific Capitals: San Francisco -->
+		<dc:source>https://archive.org/details/amateuremigrants0000unse/</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
