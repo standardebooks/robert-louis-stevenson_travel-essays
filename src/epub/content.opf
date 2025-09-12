@@ -137,9 +137,9 @@
 		<meta property="file-as" refines="#transcriber-5">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-5">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Gijs van Tulder</dc:contributor>
+		<meta property="file-as" refines="#producer-1">van Tulder, Gijs</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.vantulder.net/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
