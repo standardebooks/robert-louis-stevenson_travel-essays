@@ -87,7 +87,6 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/a-mountain-town-in-france.xhtml" id="a-mountain-town-in-france.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-winters-walk-in-carrick-and-galloway.xhtml" id="a-winters-walk-in-carrick-and-galloway.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/across-the-plains.xhtml" id="across-the-plains.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/alpine-diversions.xhtml" id="alpine-diversions.xhtml" media-type="application/xhtml+xml"/>
@@ -122,7 +121,6 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="an-inland-voyage.xhtml"/>
 		<itemref idref="edinburgh.xhtml"/>
-		<itemref idref="a-mountain-town-in-france.xhtml"/>
 		<itemref idref="travels-with-a-donkey-in-the-cevennes.xhtml"/>
 		<itemref idref="the-amateur-emigrant.xhtml"/>
 		<itemref idref="across-the-plains.xhtml"/>
