@@ -103,11 +103,10 @@
 		<item href="text/letter-to-the-author.xhtml" id="letter-to-the-author.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-the-enjoyment-of-unpleasant-places.xhtml" id="on-the-enjoyment-of-unpleasant-places.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/roads.xhtml" id="roads.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/san-francisco.xhtml" id="san-francisco.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-amateur-emigrant.xhtml" id="the-amateur-emigrant.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-coast-of-fife.xhtml" id="the-coast-of-fife.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-education-of-an-engineer.xhtml" id="the-education-of-an-engineer.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-old-pacific-capital.xhtml" id="the-old-pacific-capital.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-old-and-new-pacific-capitals.xhtml" id="the-old-and-new-pacific-capitals.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-silverado-squatters.xhtml" id="the-silverado-squatters.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-stimulation-of-the-alps.xhtml" id="the-stimulation-of-the-alps.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -124,8 +123,7 @@
 		<itemref idref="travels-with-a-donkey-in-the-cevennes.xhtml"/>
 		<itemref idref="the-amateur-emigrant.xhtml"/>
 		<itemref idref="across-the-plains.xhtml"/>
-		<itemref idref="the-old-pacific-capital.xhtml"/>
-		<itemref idref="san-francisco.xhtml"/>
+		<itemref idref="the-old-and-new-pacific-capitals.xhtml"/>
 		<itemref idref="the-silverado-squatters.xhtml"/>
 		<itemref idref="to-paul-bourget.xhtml"/>
 		<itemref idref="letter-to-the-author.xhtml"/>
