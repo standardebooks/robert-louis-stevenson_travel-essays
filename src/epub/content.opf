@@ -30,12 +30,54 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Travel Essays</dc:title>
 		<meta property="file-as" refines="#title">Travel Essays</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">France -- Description and travel</dc:subject>
+		<dc:subject id="subject-2">Edinburgh (Scotland) -- Description and travel</dc:subject>
+		<dc:subject id="subject-3">Cévennes Mountains (France) -- Description and travel</dc:subject>
+		<dc:subject id="subject-4">California -- Description and travel</dc:subject>
+		<dc:subject id="subject-5">Calistoga (Calif.) -- Description and travel</dc:subject>
+		<dc:subject id="subject-6">Napa Valley (Calif.) -- Description and travel</dc:subject>
+		<dc:subject id="subject-7">West (U.S.) -- Description and travel</dc:subject>
+		<dc:subject id="subject-8">Monterey (Calif.) -- Description and travel</dc:subject>
+		<dc:subject id="subject-9">Authors, Scottish -- 19th century -- Biography</dc:subject>
+		<dc:subject id="subject-10">Stevenson, Robert Louis, 1850-1894 -- Travel</dc:subject>
+		<dc:subject id="subject-11">Stevenson, Robert Louis, 1850-1894 -- Travel -- France</dc:subject>
+		<dc:subject id="subject-12">Stevenson, Robert Louis, 1850-1894 -- Travel -- France -- Cévennes Mountains</dc:subject>
+		<dc:subject id="subject-13">Stevenson, Robert Louis, 1850-1894 -- Travel -- California</dc:subject>
+		<dc:subject id="subject-14">Essays</dc:subject>
+		<dc:subject id="subject-15">Scots -- France -- History -- 19th century</dc:subject>
+		<dc:subject id="subject-16">English literature -- 19th century</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh85051207</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
+		<meta property="term" refines="#subject-2">sh2008114888</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85018870</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">Unknown</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">Unknown</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh85146142</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">Unknown</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">sh2007101707</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">Unknown</meta>
+		<meta property="authority" refines="#subject-11">LCSH</meta>
+		<meta property="term" refines="#subject-11">Unknown</meta>
+		<meta property="authority" refines="#subject-12">LCSH</meta>
+		<meta property="term" refines="#subject-12">Unknown</meta>
+		<meta property="authority" refines="#subject-13">LCSH</meta>
+		<meta property="term" refines="#subject-13">Unknown</meta>
+		<meta property="authority" refines="#subject-14">LCSH</meta>
+		<meta property="term" refines="#subject-14">sh85044914</meta>
+		<meta property="authority" refines="#subject-15">LCSH</meta>
+		<meta property="term" refines="#subject-15">Unknown</meta>
+		<meta property="authority" refines="#subject-16">LCSH</meta>
+		<meta property="term" refines="#subject-16">sh85043782</meta>
 		<meta property="se:subject">TAG</meta>
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
