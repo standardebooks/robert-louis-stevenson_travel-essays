@@ -139,3 +139,7 @@ header figure{
 	margin: 1em auto;
 	max-width: 70%;
 }
+
+#travels-with-a-donkey-in-the-cevennes-6-8 > blockquote span:first-child{
+	text-indent: 4em;
+}
