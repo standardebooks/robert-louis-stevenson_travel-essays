@@ -125,13 +125,14 @@
 		<item href="text/cockermouth-and-keswick.xhtml" id="cockermouth-and-keswick.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/davos-in-winter.xhtml" id="davos-in-winter.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/edinburgh.xhtml" id="edinburgh.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/edinburgh.xhtml" id="edinburgh.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/fontainebleau.xhtml" id="fontainebleau.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/forest-notes.xhtml" id="forest-notes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/health-and-mountains.xhtml" id="health-and-mountains.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/letter-to-the-author.xhtml" id="letter-to-the-author.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-the-enjoyment-of-unpleasant-places.xhtml" id="on-the-enjoyment-of-unpleasant-places.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/roads.xhtml" id="roads.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-amateur-emigrant.xhtml" id="the-amateur-emigrant.xhtml" media-type="application/xhtml+xml"/>
@@ -172,6 +173,7 @@
 		<itemref idref="roads.xhtml"/>
 		<itemref idref="on-the-enjoyment-of-unpleasant-places.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
+		<itemref idref="loi.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
