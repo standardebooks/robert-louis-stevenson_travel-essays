@@ -22,6 +22,10 @@
 }
 
 /* Letter */
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -152,4 +156,32 @@ header figure{
 
 #travels-with-a-donkey-in-the-cevennes-6-8 > blockquote span:first-child{
 	text-indent: 4em;
+}
+
+#the-silverado-squatters-3 blockquote header p{
+	font-style: italic;
+}
+
+#the-silverado-squatters-3 blockquote header p span{
+	font-style: normal;
+}
+
+#the-silverado-squatters-3 blockquote header p + p{
+	margin-bottom: 1em;
+	text-align: initial;
+}
+
+#the-silverado-squatters-3 table td{
+	padding: .1em .5em;
+	text-align: right;
+}
+
+#the-silverado-squatters-3 table td:last-child{
+	font-variant-numeric: tabular-nums;
+	text-align: right;
+}
+
+#the-silverado-squatters-3 table tfoot td:last-child{
+	border-top: 1px solid;
+	padding-top: .2em;
 }
