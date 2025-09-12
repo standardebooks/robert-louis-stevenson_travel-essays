@@ -42,7 +42,21 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>PG_URL</dc:source>
+		<!-- TRANSCRIPTIONS -->
+		<!-- An Inland Voyage -->
+		<dc:source>https://www.gutenberg.org/ebooks/534</dc:source>
+		<!-- Edinburgh -->
+		<dc:source>https://www.gutenberg.org/ebooks/382</dc:source>
+		<!-- Travels with a Donkey -->
+		<dc:source>https://www.gutenberg.org/ebooks/535</dc:source>
+		<!-- The Silverado Squatters -->
+		<dc:source>https://www.gutenberg.org/ebooks/516</dc:source>
+		<!-- Across the Plains with Other Memories and Essays -->
+		<dc:source>https://www.gutenberg.org/ebooks/614</dc:source>
+		<!-- Essays of Travel -->
+		<dc:source>https://www.gutenberg.org/ebooks/627</dc:source>
+		<!-- San Francisco (from The Works of Robert Louis Stevenson) -->
+		<dc:source>https://www.gutenberg.org/ebooks/30527</dc:source>
 		<!-- SCANS -->
 		<!-- An Inland Voyage -->
 		<dc:source>https://archive.org/details/inlandvoyage06stev/</dc:source>
