@@ -141,7 +141,23 @@
 		<dc:source>https://archive.org/details/cu31924013553965/</dc:source>
 		<!-- The Old and New Pacific Capitals: San Francisco -->
 		<dc:source>https://archive.org/details/amateuremigrants0000unse/</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">
+		Unwanted changes suggested by se modernize-spelling:
+		“Across the Plains” and “Edinburgh” each contain a blockquote with
+		text in old or unusual spelling, which has been preserved.
+
+		Several non-travel essays have been excluded from this collection:
+		from “Across the Plains with Other Memories and Essays”:
+		. The Lantern-Bearers
+		. A Chapter on Dreams
+		. Beggars
+		. Letter to a Young Gentleman
+		. Pulvis et Umbra
+		. A Christmas Sermon
+		from “Essays of Travel”:
+		. Random Memories: Rosa Quo Locorum
+		. The Ideal House
+		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/An_Inland_Voyage</meta>
