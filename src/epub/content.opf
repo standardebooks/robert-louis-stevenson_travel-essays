@@ -110,6 +110,11 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78088964</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="illustrator">Alfred-Louis Brunet-Debaines</dc:contributor>
+		<meta property="file-as" refines="#illustrator">Brunet-Debaines, Alfred-Louis</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/Alfred-Louis_Brunet-Debaines</meta>
+		<meta property="se:url.authority.nacoaf" refines="#illustrator">http://id.loc.gov/authorities/names/no98099524</meta>
+		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Théodore Rousseau</dc:contributor>
 		<meta property="file-as" refines="#artist">Rousseau, Théodore</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Étienne Pierre Théodore Rousseau</meta>
