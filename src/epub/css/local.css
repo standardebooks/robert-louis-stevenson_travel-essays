@@ -143,12 +143,8 @@ header figure{
 }
 
 #the-silverado-squatters-3 table td{
-	padding: .1em .5em;
-	text-align: right;
-}
-
-#the-silverado-squatters-3 table td:last-child{
 	font-variant-numeric: tabular-nums;
+	padding: .1em .5em;
 	text-align: right;
 }
 
