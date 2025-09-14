@@ -132,7 +132,16 @@ header figure{
 	max-width: 70%;
 }
 
-/* Special CSS. */
+/* Diary entries in Across the Plains. */
+#across-the-plains [epub|type~="z3998:diary"] section + section p:first-child{
+	text-indent: 1em;
+}
+
+#across-the-plains [epub|type~="se:diary.dateline"]{
+	font-style: italic;
+}
+
+/* Invoice in The Silverado Squatters. */
 #the-silverado-squatters-3 blockquote header p{
 	font-style: italic;
 }
