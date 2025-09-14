@@ -74,8 +74,13 @@ p span.i1{
 	text-indent: -1em;
 }
 
-p span.i2{
+p span.i3{
 	padding-left: 4em;
+	text-indent: -1em;
+}
+
+p span.i5{
+	padding-left: 6em;
 	text-indent: -1em;
 }
 
@@ -124,14 +129,6 @@ header figure{
 }
 
 /* Special CSS. */
-#travels-with-a-donkey-in-the-cevennes-4 > header > blockquote span:first-child{
-	text-indent: 6em;
-}
-
-#travels-with-a-donkey-in-the-cevennes-6-8 > blockquote span:first-child{
-	text-indent: 4em;
-}
-
 #the-silverado-squatters-3 blockquote header p{
 	font-style: italic;
 }
