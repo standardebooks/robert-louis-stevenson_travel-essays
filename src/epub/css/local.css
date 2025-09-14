@@ -109,6 +109,10 @@ figcaption{
 	text-align: center;
 }
 
+figcaption i{
+	font-style: normal;
+}
+
 /* Figure sizes and placement */
 figure.full-page{
 	break-after: page;
