@@ -5,10 +5,6 @@
 			<code>s-023</code>
 			<reason>The chapter title includes the title of the book, which starts with an uppercase letter.</reason>
 		</ignore>
-		<ignore>
-			<code>t-053</code>
-			<reason>This is not drama. Stage directions formatted as in the book.</reason>
-		</ignore>
 	</file>
 	<file path="fontainebleau.xhtml">
 		<ignore>
