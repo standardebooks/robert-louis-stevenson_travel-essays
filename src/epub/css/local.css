@@ -2,6 +2,10 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+[epub|type~="dedication"] > p:first-of-type + p{
+	text-indent: 0;
+}
+
 /* Epigraph */
 [epub|type~="epigraph"]{
 	font-style: italic;
