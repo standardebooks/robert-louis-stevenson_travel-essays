@@ -6,22 +6,10 @@
 			<reason>The chapter title includes the title of the book, which starts with an uppercase letter.</reason>
 		</ignore>
 	</file>
-	<file path="fontainebleau.xhtml">
-		<ignore>
-			<code>t-017</code>
-			<reason>Checked ending punctuation inside formatting: phrase is an independent clause, not part of dialog.</reason>
-		</ignore>
-	</file>
 	<file path="the-silverado-squatters.xhtml">
 		<ignore>
 			<code>t-008</code>
 			<reason>Repeated ditto marks used in a table.</reason>
-		</ignore>
-	</file>
-	<file path="travels-with-a-donkey-in-the-cevennes.xhtml">
-		<ignore>
-			<code>t-017</code>
-			<reason>Checked ending punctuation inside formatting: phrase is an independent clause, not part of dialog.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
