@@ -144,7 +144,7 @@
 		<!-- Maps for An Inland Voyage and Travels with a Donkey -->
 		<dc:source>https://archive.org/details/inlandvoyagetrav02stev/</dc:source>
 		<meta property="se:production-notes">Unwanted changes suggested by se modernize-spelling: “Across the Plains” and “Edinburgh” each contain a blockquote with text in old or unusual spelling, which has been preserved.</meta>
-		<meta property="se:word-count">232071</meta>
+		<meta property="se:word-count">231144</meta>
 		<meta property="se:reading-ease.flesch">62.61</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/An_Inland_Voyage</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Edinburgh:_Picturesque_Notes</meta>
