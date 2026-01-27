@@ -107,13 +107,13 @@
 		<dc:source>https://www.gutenberg.org/ebooks/30527</dc:source>
 		<!-- SCANS -->
 		<!-- An Inland Voyage -->
-		<dc:source>https://archive.org/details/inlandvoyage06stev/</dc:source>
+		<dc:source>https://archive.org/details/inlandvoyage06stev</dc:source>
 		<!-- Edinburgh -->
-		<dc:source>https://archive.org/details/edinburghpicture00stev_0/</dc:source>
+		<dc:source>https://archive.org/details/edinburghpicture00stev_0</dc:source>
 		<!-- Travels with a Donkey -->
-		<dc:source>https://archive.org/details/worksstevens12stevuoft/</dc:source>
+		<dc:source>https://archive.org/details/worksstevens12stevuoft</dc:source>
 		<!-- The Silverado Squatters -->
-		<dc:source>https://archive.org/details/silveradosquaste00stev/</dc:source>
+		<dc:source>https://archive.org/details/silveradosquaste00stev</dc:source>
 		<!--
 		Across the Plains with Other Memories and Essays:
 		. Across the Plains
@@ -122,7 +122,7 @@
 		. The Coast of Fife
 		. The Education of an Engineer
 		-->
-		<dc:source>https://archive.org/details/with00stevacrossplainsrich/</dc:source>
+		<dc:source>https://archive.org/details/with00stevacrossplainsrich</dc:source>
 		<!--
 		Essays of Travel:
 		. The Amateur Emigrant
@@ -138,11 +138,11 @@
 		. Roads
 		. On the Enjoyment of Unpleasant Places
 		-->
-		<dc:source>https://archive.org/details/cu31924013553965/</dc:source>
+		<dc:source>https://archive.org/details/cu31924013553965</dc:source>
 		<!-- The Old and New Pacific Capitals: San Francisco -->
-		<dc:source>https://archive.org/details/amateuremigrants0000unse/</dc:source>
+		<dc:source>https://archive.org/details/amateuremigrants0000unse</dc:source>
 		<!-- Maps for An Inland Voyage and Travels with a Donkey -->
-		<dc:source>https://archive.org/details/inlandvoyagetrav02stev/</dc:source>
+		<dc:source>https://archive.org/details/inlandvoyagetrav02stev</dc:source>
 		<meta property="se:production-notes">Unwanted changes suggested by se modernize-spelling: “Across the Plains” and “Edinburgh” each contain a blockquote with text in old or unusual spelling, which has been preserved.</meta>
 		<meta property="se:word-count">231144</meta>
 		<meta property="se:reading-ease.flesch">62.61</meta>
