@@ -82,6 +82,9 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Travel</meta>
 		<meta property="se:is-a-collection">true</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="se:title-in-collection" refines="#collection-1">Across the Plains</meta>
 		<dc:description id="description">A collection of Robert Louis Stevenson’s travel essays.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Best known for his fiction and poetry, Scottish author &lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson"&gt;Robert Louis Stevenson&lt;/a&gt; was also a prolific travel writer. This ebook is a collection of his travel works.&lt;/p&gt;
