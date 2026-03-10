@@ -2,11 +2,13 @@
 <se-lint-ignore>
 	<file path="an-inland-voyage.xhtml">
 		<ignore code="s-023">
+			<line>438</line>
 			<reason>The chapter title includes the title of the book, which starts with an uppercase letter.</reason>
 		</ignore>
 	</file>
 	<file path="the-silverado-squatters.xhtml">
 		<ignore code="t-008">
+			<line>232</line>
 			<reason>Repeated ditto marks used in a table.</reason>
 		</ignore>
 	</file>
