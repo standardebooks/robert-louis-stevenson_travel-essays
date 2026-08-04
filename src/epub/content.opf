@@ -88,7 +88,7 @@
 		<meta property="schema:hasPart" refines="#collection-1" id="collection-1-entry-1">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-1-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-1-entry-1">Across the Plains</meta>
-		<dc:abstract>A collection of Robert Louis Stevenson’s travel essays.</dc:abstract>
+		<meta property="schema:abstract">A collection of Robert Louis Stevenson’s travel essays.</meta>
 		<dc:description>
 			&lt;p&gt;Best known for his fiction and poetry, Scottish author &lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson"&gt;Robert Louis Stevenson&lt;/a&gt; was also a prolific travel writer. This ebook is a collection of his travel works.&lt;/p&gt;
 			&lt;p&gt;In his earliest book, “An Inland Voyage,” Stevenson and a friend paddle their canoes from Antwerp to the north of France. Along the way, they meet with fellow travelers, innkeepers, sportsmen, and the police. “Edinburgh: Picturesque Notes” is his illustrated guidebook to the Scottish capital, covering both the history and the nineteenth-century present of the city and its people. In “Travels with a Donkey in the Cévennes” Stevenson makes a walking trip in mountainous central France, accompanied, aided, and occasionally obstructed by the donkey Modestine. Both “An Inland Voyage” and “Travels with a Donkey” are considered two of the first popular books in outdoor literature, written at a time when hiking and camping were still uncommon recreational activities.&lt;/p&gt;
